@@ -28,5 +28,5 @@ Identify card types: The application can identify the type of credit card based 
  HTML
  CSS
 
- # licence
+ # Licence
  there is no any need of licence
